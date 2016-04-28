@@ -1,2 +1,2 @@
 # My-Repository
-Hanson's test repository
+测试GitHub功能
